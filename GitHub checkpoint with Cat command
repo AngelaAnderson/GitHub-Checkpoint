@@ -1,0 +1,8 @@
+Angelas-MacBook-Pro-2:shopping_cart angelanderson$ cat lettuce.txt
+diff --git a/banana.txt b/banana.txt
+index e69de29..cc7b90a 100644
+--- a/banana.txt
++++ b/banana.txt
+@@ -0,0 +1 @@
++Git Checkout Assignment
+Angelas-MacBook-Pro-2:shopping_cart angelanderson$ 
